@@ -3,7 +3,8 @@ package stocks;
 import java.util.ArrayList;
 
 /**
- * Google Drive: personal / stocks simulation
+ * @author Cleyton
+ * 
  */
 public class Simulator {
 	
