@@ -2,6 +2,9 @@ package stocks;
 
 import java.util.ArrayList;
 
+/**
+ * Google Drive: personal / stocks simulation
+ */
 public class Simulator {
 	
 	public Simulator( ) {
